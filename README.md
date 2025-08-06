@@ -91,7 +91,7 @@ Make sure you have Python 3.9 or higher installed on your system.
 
 The project currently consists of two main scripts:
 
-1.  **Capture Data:** To capture live network traffic and save it for analysis (functionality to be added).
+1.  **Capture Data:** To capture live network traffic and save it for analysis.
     ```sh
     python src/capture.py
     ```
