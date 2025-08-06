@@ -64,7 +64,7 @@ Make sure you have Python 3.9 or higher installed on your system.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/esadowski4/mini-morpheus.git](https://github.com/esadowski4/mini-morpheus.git)
+    git clone https://github.com/esadowski4/mini-morpheus.git
     ```
 2.  **Navigate to the project directory:**
     ```sh
